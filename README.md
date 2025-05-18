@@ -1,3 +1,2 @@
-This is the description of my repo
-Modification in main branch.
+This is the initial README for the branching task.
 Modification in main branch.
